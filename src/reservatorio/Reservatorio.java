@@ -10,7 +10,6 @@ public class Reservatorio {
 
     /**
      * @param args the command line arguments
-     Alterado do desktop - Alex santos
      */
     public static void main(String[] args) {
         //Variaveis do programa 
